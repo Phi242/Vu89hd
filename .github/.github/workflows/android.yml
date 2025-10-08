@@ -1,4 +1,4 @@
-name: Android Debug APK
+.github/workflows/android.yml: Android Debug APK
 
 on:
   workflow_dispatch:
